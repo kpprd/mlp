@@ -2,7 +2,7 @@
 Python version: 3.7
 Testrun: Macbook Pro OS 10.15.1
 
-A program for supervised training and testing of a multilayer neural network with one hidden layer (see e.g. Marsland 2015)
+A program for supervised training and testing of a multilayer neural network with one hidden layer (see e.g. Marsland 2015). An assignment for the course INF4490 (see file INF4490-assignment2 for the assignment text)
 
 How to run the program:
 Create an instance of the class Multilayer with constructor arguments corresponding to the desired properties (see documentation for details).
