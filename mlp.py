@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3
 
+# Oystein Kapperud, 2017
+
 import numpy as np
 import copy
 
